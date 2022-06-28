@@ -30,7 +30,7 @@
 <h3 align="center">FundMe-hh-html</h3>
 
   <p align="center">
-    Simple HTML and Javascript Project to access the smart Contract of [https://github.com/mme022/FundMe-hh](https://github.com/mme022/FundMe-hh)
+    Simple HTML and Javascript Project to access the smart Contract of https://github.com/mme022/FundMe-hh
     <br />
     <br />
     <br />
